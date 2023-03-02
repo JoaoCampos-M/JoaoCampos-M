@@ -11,12 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
  <div>
   <a href="https://github.com/JoaoCampos-M">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoCampos-M&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCampos-M&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
